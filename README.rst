@@ -1,5 +1,5 @@
 ===============================
-Welcome to python-kucoin-sdk
+Welcome to python-kucoin-futures-sdk
 ===============================
 
 .. image:: https://img.shields.io/pypi/l/python-kucoin
