@@ -12,7 +12,7 @@ setup(
     license="MIT",
     author='Arthur & Trevor',
     author_email="arthur.zhang@kucoin.com",
-    url='',
+    url='https://github.com/TrevorTKern/kucoin-futures-python-sdk',
     description="kucoin-futures-api-sdk",
     install_requires=['requests', 'websockets'],
     classifiers=[
